@@ -8,3 +8,4 @@ Steps to building:
 2. Setup env variables (AI models, vectordb, observability tools etc)
 3. Setup Config file
 4. Setup Data Ingestion Pipeline
+5. Adding document parsers
